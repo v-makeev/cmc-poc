@@ -1,0 +1,4 @@
+mpi_scan/scan
+matrix_mult/*_res
+matrix_mult/mult
+.idea/
